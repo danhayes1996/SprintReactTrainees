@@ -1,0 +1,10 @@
+#table {
+    border-radius: 5px;
+    min-width: 650px;
+    max-width: 900px;
+    float: none;
+  }
+
+a:hover {
+    cursor: pointer;
+}
